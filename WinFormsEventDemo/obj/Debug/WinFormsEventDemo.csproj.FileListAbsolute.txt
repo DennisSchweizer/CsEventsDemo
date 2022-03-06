@@ -1,0 +1,15 @@
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\bin\Debug\WinFormsEventDemo.exe.config
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\bin\Debug\WinFormsEventDemo.exe
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\bin\Debug\WinFormsEventDemo.pdb
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.csproj.AssemblyReference.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.Properties.Resources.resources
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.csproj.GenerateResource.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.exe
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.pdb
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\bin\Debug\EventDemoTest.exe
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\bin\Debug\EventDemoTest.pdb
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\bin\Debug\EventDemoTest.exe.config
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.Form1.resources
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\WinFormsEventDemo\obj\Debug\WinFormsEventDemo.csproj.CopyComplete

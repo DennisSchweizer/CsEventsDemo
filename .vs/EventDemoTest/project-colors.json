@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c57698ae-6afb-4aad-ac56-5d4f46a05382": {
+      "ProjectGuid": "c57698ae-6afb-4aad-ac56-5d4f46a05382",
+      "DisplayName": "EventDemoTest",
+      "ColorIndex": 0
+    },
+    "305de54f-04ad-4586-8ae3-fa8694119dce": {
+      "ProjectGuid": "305de54f-04ad-4586-8ae3-fa8694119dce",
+      "DisplayName": "WinFormsEventDemo",
+      "ColorIndex": 1
+    },
+    "ec9ff067-7a6e-4f0a-a81d-6a0ee6adc815": {
+      "ProjectGuid": "ec9ff067-7a6e-4f0a-a81d-6a0ee6adc815",
+      "DisplayName": "EventsDemoWithObjects",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

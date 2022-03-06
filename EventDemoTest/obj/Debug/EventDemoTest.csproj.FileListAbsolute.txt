@@ -1,0 +1,8 @@
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\bin\Debug\EventDemoTest.exe.config
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\bin\Debug\EventDemoTest.exe
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\bin\Debug\EventDemoTest.pdb
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\obj\Debug\EventDemoTest.csproj.AssemblyReference.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\obj\Debug\EventDemoTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\obj\Debug\EventDemoTest.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\obj\Debug\EventDemoTest.exe
+C:\Users\Dennis\Documents\Klassenbibliotheken\EventDemoTest\EventDemoTest\obj\Debug\EventDemoTest.pdb
